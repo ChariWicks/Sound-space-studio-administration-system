@@ -1,4 +1,7 @@
+
 <?php
+
+//soundspace getstudio
 
 	$host="localhost"; 
 	$username="root"; 
